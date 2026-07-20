@@ -8,3 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a ☕️ dependent person
 
+### Github Stats
+
+<img src="https://raw.githubusercontent.com/rishichitnis007/Github-README-1/output/github-contribution-grid-snake.svg" />
